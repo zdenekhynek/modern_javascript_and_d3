@@ -1,0 +1,10 @@
+# Some files shouldn't be tracked
+
+# Ignore all the install dependencies
+node_modules
+
+# Ignore specific versions of dependencies
+package-lock.json
+
+# Ignore generated bundled files
+build
